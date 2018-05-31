@@ -1,0 +1,139 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+
+}
+
+<div class="row match-height" ng-controller="SalesInformationControllerAdd">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title" id="basic-layout-form-center">Sales Information Create</h4>
+                <a class="heading-elements-toggle"><i class="icon-ellipsis font-medium-3"></i></a>
+                <div class="heading-elements">
+                    <ul class="list-inline mb-0">
+
+                        <li><a data-action="reload"><i class="icon-reload"></i></a></li>
+                        <li><a data-action="expand"><i class="icon-expand2"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="card-body collapse in">
+                <div class="card-block">
+
+
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="form-body">
+                                <div class="form-group" ng-class="{ 'has-danger': dForm.Name.$touched && dForm.Name.$invalid }">
+                                    <label for="Name">Name</label>
+                                    <input type="text" id="Name" class="form-control" placeholder="Name" name="Name" ng-model="SalesInformation.SalesName" ng-maxlength="150" ng-change="IsSalesInformationExists()" required>
+                                    <div class="help-block" ng-messages="dForm.Name.$error" ng-if="dForm.Name.$touched">
+                                        <div ng-message="required" class="danger text-muted">Enter Sales Name</div>
+
+                                        <div ng-message="maxlength" class="warning text-muted">Sales Name must not exceed 150 characters</div>
+                                        <div class="danger text-muted" ng-show="IsDuplicate">Sales Name Already Exists</div>
+                                    </div>
+                                </div>
+                                <div class="form-group" ng-class="{ 'has-danger': dForm.InvoiceNo.$touched && dForm.InvoiceNo.$invalid }">
+                                    <label for="InvoiceNo">Invoice No</label>
+                                    <input type="text" id="InvoiceNo" class="form-control" placeholder="Invoice No" name="InvoiceNo" ng-model="SalesInformation.InvoiceNo" ng-maxlength="150" disabled="disabled" required >
+                                    <div class="help-block" ng-messages="dForm.InvoiceNo.$error" ng-if="dForm.InvoiceNo.$touched">
+                                        <div ng-message="required" class="danger text-muted">Enter Invoice No</div>
+
+                                        <div ng-message="maxlength" class="warning text-muted">Invoice No must not exceed 150 characters</div>
+
+                                    </div>
+                                </div>
+                                <div class="form-group" ng-class="{ 'has-error': dForm.CustomerID.$touched && dForm.CustomerID.$invalid }">
+                                    <label for="CustomerID">Customer</label>
+                                    <select class="form-control" ng-model="SalesInformation.CustomerID" ng-options="customer.CustomerID as customer.CustomerName for customer in CustomerInformations"></select>
+                                    <div class="help-block" ng-messages="dForm.CustomerID.$error" ng-if="dForm.CustomerID.$touched">
+                                        <div ng-message="required" class="text-danger">Enter Customer</div>
+
+
+                                    </div>
+                                </div>
+                                <table class="table table-striped table-bordered table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>Action</th>
+                                            <th>Medicine</th>
+                                            <th>Quantity</th>
+                                            <th>Cost</th>
+                                            <th>Total</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr ng-repeat="item in items">
+                                            <td><a  ng-click="removeItem(item)" class="btn btn-danger">[X]</a></td>
+                                            <td><select class="form-control" ng-model="item.MedicineID" ng-change="getMedicineInformationById(item)" ng-options="medicine.MedicineID as medicine.MedicineName for medicine in MedicineInformations"></select></td>
+                                            <td><input ng-model="item.TotalUnit" value="1" size="4" ng-required ng-validate="integer" placeholder="Quantity" ng-change="CalculateTotalCost(item)"/></td>
+                                           
+                                            <td><input ng-model="item.cost" value="0.00" ng-required ng-validate="number" size="6" placeholder="Cost" disabled="disabled" /></td>
+                                            <td><input ng-model="item.TotalCost" disabled="disabled"/></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table class="table">
+                                    <tr>
+                                        <td>
+                                            <a class="btn btn-primary" href ng-click="addItem()">[+]</a>
+                                        </td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                       
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                       
+                                        <td>Sub Total:</td>
+                                        <td><label ng-model="SalesInformation.SubTotal">{{invoiceSubTotal() }}</label></td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                       
+                                        <td>Discount Rate%:<input ng-model="SalesInformation.DiscountRate" ng-validate="number" style="width:43px"></td>
+                                        <td><label ng-model="SalesInformation.DiscountAmount">{{calculateDiscount() }}</label></td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                      
+                                        <td>Tax(%): <input ng-model="SalesInformation.TaxPercentage" ng-validate="number" style="width:43px"></td>
+                                        <td><label ng-model="SalesInformation.TotalTax">{{calculateTax() }}</label></td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        
+                                        <td>Grand Total:</td>
+                                        <td><label ng-model="SalesInformation.TotalPriceIncludingAll">{{calculateGrandTotal()}}</label></td>
+                                    </tr>
+                                </table>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-actions center">
+
+                        <button type="submit" class="btn btn-primary" ng-disabled="dForm.$invalid" ng-click="AddSalesInformation(SalesInformation,items)">
+                            <i class="icon-check2"></i> Save
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

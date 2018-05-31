@@ -1,0 +1,10 @@
+E:\Projects\Employee_Sln\Asset.Utility\bin\Debug\Pharmacy.Utility.dll
+E:\Projects\Employee_Sln\Asset.Utility\bin\Debug\Pharmacy.Utility.pdb
+E:\Projects\Employee_Sln\Asset.Utility\obj\Debug\Pharmacy.Utility.csprojResolveAssemblyReference.cache
+E:\Projects\Employee_Sln\Asset.Utility\obj\Debug\Pharmacy.Utility.dll
+E:\Projects\Employee_Sln\Asset.Utility\obj\Debug\Pharmacy.Utility.pdb
+E:\Projects\Pharmacy_Sln\Pharmacy.Utility\bin\Debug\Pharmacy.Utility.dll
+E:\Projects\Pharmacy_Sln\Pharmacy.Utility\bin\Debug\Pharmacy.Utility.pdb
+E:\Projects\Pharmacy_Sln\Pharmacy.Utility\obj\Debug\Pharmacy.Utility.csprojResolveAssemblyReference.cache
+E:\Projects\Pharmacy_Sln\Pharmacy.Utility\obj\Debug\Pharmacy.Utility.dll
+E:\Projects\Pharmacy_Sln\Pharmacy.Utility\obj\Debug\Pharmacy.Utility.pdb

@@ -1,0 +1,137 @@
+﻿@{
+    ViewBag.Title = "Create";
+
+}
+
+<div class="row match-height" ng-controller="CustomerInformationControllerEdit">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title" id="basic-layout-form-center">Customer Update</h4>
+                <a class="heading-elements-toggle"><i class="icon-ellipsis font-medium-3"></i></a>
+                <div class="heading-elements">
+                    <ul class="list-inline mb-0">
+
+                        <li><a data-action="reload"><i class="icon-reload"></i></a></li>
+                        <li><a data-action="expand"><i class="icon-expand2"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="card-body collapse in">
+                <div class="card-block">
+                    <div class="row">
+                        <div class="col-md-6">
+
+
+
+
+                            <div class="form-body">
+                                <input type="hidden" id="CustomerID" ng-model="CustomerInformation.CustomerID" />
+                                <div class="form-group" ng-class="{ 'has-danger': dForm.CustomerName.$touched && dForm.CustomerName.$invalid }">
+                                    <label for="CustomerName">Name</label>
+                                    <input type="text" id="CustomerName" class="form-control" placeholder="Name" name="Name" ng-model="CustomerInformation.CustomerName" ng-change="IsCustomerInformationExistsWithID()" ng-maxlength="150" required />
+                                    <div class="help-block" ng-messages="dForm.CustomerName.$error" ng-if="dForm.CustomerName.$touched">
+                                        <div ng-message="required" class="danger text-muted">Enter Customer Name</div>
+
+                                        <div ng-message="maxlength" class="warning text-muted">Customer Name must not exceed 150 characters</div>
+
+                                    </div>
+                                </div>
+                                <div class="form-group" ng-class="{ 'has-error': dForm.Age.$touched && dForm.Age.$invalid }">
+                                    <label for="Age">Age</label>
+                                    <input id="Age" class="form-control" type="number" placeholder="Age" name="Age" ng-model="CustomerInformation.Age" min="0" ng-maxlength="3" ng-min="1" required />
+                                    <div class="help-block" ng-messages="dForm.Age.$error" ng-if="dForm.Age.$touched">
+                                        <div ng-message="required" class="text-danger">Enter Age </div>
+                                        <div ng-message="maxlength" class="warning text-muted">Age must be less than 100</div>
+                                        <div ng-message="min" class="warning text-muted">Age must be greater than zero</div>
+
+                                    </div>
+                                </div>
+                                <div class="form-group" ng-class="{ 'has-error': dForm.GenderID.$touched && dForm.GenderID.$invalid }">
+                                    <label for="GenderID">Gender</label>
+                                    <select class="form-control" ng-model="CustomerInformation.GenderID" ng-options="Gender.GenderID as Gender.GenderName for Gender in Genders">
+                                      
+                                    </select>
+                                    <div class="help-block" ng-messages="dForm.GenderID.$error" ng-if="dForm.GenderID.$touched">
+                                        <div ng-message="required" class="text-danger">Enter Gender</div>
+
+
+                                    </div>
+                                </div>
+                               
+
+
+                            </div>
+
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-body">
+                                <div class="form-group">
+                                    <label for="exampleInputFile">Customer image:</label>
+                                    <br>
+                                    <img id="preview-img" src="data:image/JPEG;base64,{{CustomerInformation.Photo}}" width="122" height="121" style="border:1px solid silver">
+                                    <br />
+                                    <input type="file" name="file" id="file" ng-model="myfile">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-actions">
+
+                        <button type="submit" class="btn btn-primary" ng-disabled="dForm.$invalid" ng-click="UpdateCustomerInformation(CustomerInformation)">
+                            <i class="icon-check2"></i> Save
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function selectImage(e) {
+
+        $('#preview-img').attr('src', e.target.result);
+
+    }
+    $(document).ready(function (e) {
+
+        var maxsize = 500 * 1024; // 500 KB
+
+
+
+
+        $('#file').change(function () {
+
+
+
+            var file = this.files[0];
+            var match = ["image/jpeg", "image/png", "image/jpg"];
+
+            if (!((file.type == match[0]) || (file.type == match[1]) || (file.type == match[2]))) {
+
+
+               alert('Unvalid image format. Allowed formats: JPG, JPEG, PNG.');
+
+                return false;
+            }
+
+            if (file.size > maxsize) {
+
+
+                alert('The size of image you are attempting to upload is ' + (file.size / 1024).toFixed(2) + ' KB, maximum size allowed is ' + (maxsize / 1024).toFixed(2) + ' KB');
+
+                return false;
+            }
+
+
+
+            var reader = new FileReader();
+            reader.onload = selectImage;
+            reader.readAsDataURL(this.files[0]);
+
+        });
+
+    });
+</script>

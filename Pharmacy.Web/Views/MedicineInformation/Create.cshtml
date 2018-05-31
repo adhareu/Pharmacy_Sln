@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+
+}
+
+<div class="row match-height" ng-controller="MedicineInformationControllerAdd">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title" id="basic-layout-form-center">Medicine Information Create</h4>
+                <a class="heading-elements-toggle"><i class="icon-ellipsis font-medium-3"></i></a>
+                <div class="heading-elements">
+                    <ul class="list-inline mb-0">
+
+                        <li><a data-action="reload"><i class="icon-reload"></i></a></li>
+                        <li><a data-action="expand"><i class="icon-expand2"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="card-body collapse in">
+                <div class="card-block">
+
+
+                    <div class="row">
+                        <div class="col-md-6 offset-md-3">
+                            <div class="form-body">
+                                <div class="form-group" ng-class="{ 'has-danger': dForm.Name.$touched && dForm.Name.$invalid }">
+                                    <label for="Name">Name</label>
+                                    <input type="text" id="Name" class="form-control" placeholder="Name" name="Name" ng-model="MedicineInformation.MedicineName" ng-maxlength="150" ng-change="IsMedicineInformationExists()" required>
+                                    <div class="help-block" ng-messages="dForm.Name.$error" ng-if="dForm.Name.$touched">
+                                        <div ng-message="required" class="danger text-muted">Enter Medicine Name</div>
+
+                                        <div ng-message="maxlength" class="warning text-muted">Medicine Name must not exceed 150 characters</div>
+                                        <div class="danger text-muted" ng-show="IsDuplicate">Medicine Name Already Exists</div>
+                                    </div>
+                                </div>
+                                <div class="form-group" ng-class="{ 'has-error': dForm.Price.$touched && dForm.Price.$invalid }">
+                                    <label for="Price">Price</label>
+                                    <input id="Price" class="form-control" type="number" placeholder="Price" name="Price" ng-model="MedicineInformation.Price" min="0"  ng-min="1" required />
+                                    <div class="help-block" ng-messages="dForm.Price.$error" ng-if="dForm.Price.$touched">
+                                        <div ng-message="required" class="text-danger">Enter Price </div>
+                                        
+                                        <div ng-message="min" class="warning text-muted">Price must be greater than zero</div>
+                                    </div>
+                                </div>
+                                <div class="form-group" ng-class="{ 'has-error': dForm.UnitTypeID.$touched && dForm.StudentCode.$invalid }">
+                                    <label for="UnitTypeID">Unit Type</label>
+                                    <select class="form-control" ng-model="MedicineInformation.UnitTypeID" ng-options="UnitType.UnitTypeID as UnitType.UnitTypeName for UnitType in UnitTypes"></select>
+                                    <div class="help-block" ng-messages="dForm.UnitTypeID.$error" ng-if="dForm.UnitTypeID.$touched">
+                                        <div ng-message="required" class="text-danger">Enter Unit Type</div>
+
+                                        
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-actions center">
+
+                        <button type="submit" class="btn btn-primary" ng-disabled="dForm.$invalid" ng-click="AddMedicineInformation(MedicineInformation)">
+                            <i class="icon-check2"></i> Save
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

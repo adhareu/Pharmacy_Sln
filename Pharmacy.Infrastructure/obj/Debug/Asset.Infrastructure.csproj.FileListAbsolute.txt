@@ -1,0 +1,49 @@
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll.config
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.csprojResolveAssemblyReference.cache
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll.config
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.pdb
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.dll
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.xml
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.dll
+F:\Asif\rp\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.pdb
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll.config
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.pdb
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.dll
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.xml
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.csprojResolveAssemblyReference.cache
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.dll
+F:\Asif\Framework\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.pdb
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.csprojResolveAssemblyReference.cache
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.dll
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.pdb
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll.config
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.pdb
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.dll
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.xml
+H:\Project Coll\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll.config
+E:\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.dll
+E:\Asset_Sln\Asset.Infrastructure\bin\Debug\Asset.Infrastructure.pdb
+E:\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.dll
+E:\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.xml
+E:\Asset_Sln\Asset.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.dll
+E:\Asset_Sln\Asset.Infrastructure\obj\Debug\Asset.Infrastructure.pdb

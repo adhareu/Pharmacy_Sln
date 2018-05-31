@@ -1,0 +1,594 @@
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\csc.exe
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\vbc.exe
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll.config
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Owin.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\WebGrease.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.csprojResolveAssemblyReference.cache
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Model.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Service.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Cors.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Model.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Service.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\csc.exe
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\vbc.exe
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll.config
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Model.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Service.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\EntityFramework.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Owin.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Cors.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\WebGrease.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Model.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Service.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\EntityFramework.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.xml
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.pdb
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.csprojResolveAssemblyReference.cache
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.dll
+F:\Asif\rp\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\csc.exe
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\vbc.exe
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll.config
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Model.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Service.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Owin.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Cors.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\WebGrease.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Model.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Service.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.xml
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.pdb
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.csprojResolveAssemblyReference.cache
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.dll
+F:\Asif\Framework\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.csprojResolveAssemblyReference.cache
+H:\Project Coll\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\csc.exe
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\vbc.exe
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll.config
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Model.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Service.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\EntityFramework.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Owin.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Cors.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\WebGrease.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.dll
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Model.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Service.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\EntityFramework.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.xml
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.pdb
+H:\Project Coll\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\csc.exe
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\vbc.exe
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll.config
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Model.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Service.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.dll
+E:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.dll
+E:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Owin.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Cors.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.dll
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Asset_Sln\Asset.WebAPI\bin\WebGrease.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.dll
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Model.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Service.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.xml
+E:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.xml
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.pdb
+E:\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.pdb
+E:\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.csprojResolveAssemblyReference.cache
+E:\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.dll
+E:\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\csc.exe
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\vbc.exe
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe
+I:\Asset_Sln\Asset.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll.config
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.WebAPI.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Model.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Service.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.dll
+I:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.dll
+I:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Owin.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Cors.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.dll
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.dll
+I:\Asset_Sln\Asset.WebAPI\bin\WebGrease.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.dll
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Model.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Service.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Utility.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\Antlr3.Runtime.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.xml
+I:\Asset_Sln\Asset.WebAPI\bin\EntityFramework.SqlServer.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Newtonsoft.Json.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Cors.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Net.Http.Formatting.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Helpers.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.WebHost.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Mvc.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Optimization.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Razor.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Deployment.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.WebPages.Razor.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Asset_Sln\Asset.WebAPI\bin\System.Web.Http.Owin.xml
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Infrastructure.pdb
+I:\Asset_Sln\Asset.WebAPI\bin\Asset.Repository.pdb
+I:\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.csprojResolveAssemblyReference.cache
+I:\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.dll
+I:\Asset_Sln\Asset.WebAPI\obj\Debug\Asset.WebAPI.pdb

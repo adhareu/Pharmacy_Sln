@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Pharmacy_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CustomerInformation">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="GenderID" Type="int" Nullable="false" />
+    <Property Name="Photo" Type="image" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+  </EntityType>
+  <EntityType Name="Gender">
+    <Key>
+      <PropertyRef Name="GenderID" />
+    </Key>
+    <Property Name="GenderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GenderName" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+  </EntityType>
+  <EntityType Name="MedicineInformation">
+    <Key>
+      <PropertyRef Name="MedicineID" />
+    </Key>
+    <Property Name="MedicineID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MedicineName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="UnitTypeID" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+  </EntityType>
+  <EntityType Name="SalesInformation">
+    <Key>
+      <PropertyRef Name="SalesID" />
+    </Key>
+    <Property Name="SalesID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SalesName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="InvoiceNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="DiscountRate" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="DiscountAmount" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TaxPercentage" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TotalTax" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="SubTotal" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TotalPriceExcludingAll" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TotalPriceIncludingAll" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+  </EntityType>
+  <EntityType Name="SalesInformationDetails">
+    <Key>
+      <PropertyRef Name="SalesDetailsID" />
+    </Key>
+    <Property Name="SalesDetailsID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SalesID" Type="int" Nullable="false" />
+    <Property Name="MedicineID" Type="int" Nullable="false" />
+    <Property Name="TotalUnit" Type="int" Nullable="false" />
+    <Property Name="TotalCost" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+  </EntityType>
+  <EntityType Name="UnitType">
+    <Key>
+      <PropertyRef Name="UnitTypeID" />
+    </Key>
+    <Property Name="UnitTypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UnitTypeName" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Pharmacy_DB.dbo.CustomerInformationView' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="CustomerInformationView">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+      <PropertyRef Name="CustomerName" />
+      <PropertyRef Name="Age" />
+      <PropertyRef Name="GenderID" />
+      <PropertyRef Name="GenderName" />
+    </Key>
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="GenderID" Type="int" Nullable="false" />
+    <Property Name="GenderName" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Photo" Type="image" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Pharmacy_DB.dbo.MedicineInformationView' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="MedicineInformationView">
+    <Key>
+      <PropertyRef Name="MedicineID" />
+      <PropertyRef Name="MedicineName" />
+      <PropertyRef Name="Price" />
+      <PropertyRef Name="UnitTypeID" />
+      <PropertyRef Name="UnitTypeName" />
+    </Key>
+    <Property Name="MedicineID" Type="int" Nullable="false" />
+    <Property Name="MedicineName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="UnitTypeID" Type="int" Nullable="false" />
+    <Property Name="UnitTypeName" Type="nvarchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Pharmacy_DB.dbo.SalesInformationView' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="SalesInformationView">
+    <Key>
+      <PropertyRef Name="SalesID" />
+      <PropertyRef Name="SalesName" />
+      <PropertyRef Name="InvoiceNo" />
+      <PropertyRef Name="CustomerName" />
+      <PropertyRef Name="CustomerID" />
+      <PropertyRef Name="DiscountRate" />
+      <PropertyRef Name="DiscountAmount" />
+      <PropertyRef Name="TaxPercentage" />
+      <PropertyRef Name="TotalTax" />
+      <PropertyRef Name="SubTotal" />
+      <PropertyRef Name="TotalPriceExcludingAll" />
+      <PropertyRef Name="TotalPriceIncludingAll" />
+    </Key>
+    <Property Name="SalesID" Type="int" Nullable="false" />
+    <Property Name="SalesName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="InvoiceNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="DiscountRate" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="DiscountAmount" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TaxPercentage" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TotalTax" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="SubTotal" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TotalPriceExcludingAll" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TotalPriceIncludingAll" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_CustomerInformation_Gender">
+    <End Role="Gender" Type="Self.Gender" Multiplicity="1" />
+    <End Role="CustomerInformation" Type="Self.CustomerInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gender">
+        <PropertyRef Name="GenderID" />
+      </Principal>
+      <Dependent Role="CustomerInformation">
+        <PropertyRef Name="GenderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MedicineInformation_Unit">
+    <End Role="UnitType" Type="Self.UnitType" Multiplicity="1" />
+    <End Role="MedicineInformation" Type="Self.MedicineInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UnitType">
+        <PropertyRef Name="UnitTypeID" />
+      </Principal>
+      <Dependent Role="MedicineInformation">
+        <PropertyRef Name="UnitTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesInformation_CustomerInformation">
+    <End Role="CustomerInformation" Type="Self.CustomerInformation" Multiplicity="1" />
+    <End Role="SalesInformation" Type="Self.SalesInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomerInformation">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="SalesInformation">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesInformationDetails_MedicineInformation">
+    <End Role="MedicineInformation" Type="Self.MedicineInformation" Multiplicity="1" />
+    <End Role="SalesInformationDetails" Type="Self.SalesInformationDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MedicineInformation">
+        <PropertyRef Name="MedicineID" />
+      </Principal>
+      <Dependent Role="SalesInformationDetails">
+        <PropertyRef Name="MedicineID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesInformationDetails_SalesInformation">
+    <End Role="SalesInformation" Type="Self.SalesInformation" Multiplicity="1" />
+    <End Role="SalesInformationDetails" Type="Self.SalesInformationDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesInformation">
+        <PropertyRef Name="SalesID" />
+      </Principal>
+      <Dependent Role="SalesInformationDetails">
+        <PropertyRef Name="SalesID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Pharmacy_DBModelStoreContainer">
+    <EntitySet Name="CustomerInformation" EntityType="Self.CustomerInformation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Gender" EntityType="Self.Gender" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MedicineInformation" EntityType="Self.MedicineInformation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SalesInformation" EntityType="Self.SalesInformation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SalesInformationDetails" EntityType="Self.SalesInformationDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UnitType" EntityType="Self.UnitType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CustomerInformationView" EntityType="Self.CustomerInformationView" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [CustomerInformationView].[CustomerID] AS [CustomerID], 
+    [CustomerInformationView].[CustomerName] AS [CustomerName], 
+    [CustomerInformationView].[Age] AS [Age], 
+    [CustomerInformationView].[GenderID] AS [GenderID], 
+    [CustomerInformationView].[GenderName] AS [GenderName], 
+    [CustomerInformationView].[Photo] AS [Photo]
+    FROM [dbo].[CustomerInformationView] AS [CustomerInformationView]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="MedicineInformationView" EntityType="Self.MedicineInformationView" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [MedicineInformationView].[MedicineID] AS [MedicineID], 
+    [MedicineInformationView].[MedicineName] AS [MedicineName], 
+    [MedicineInformationView].[Price] AS [Price], 
+    [MedicineInformationView].[UnitTypeID] AS [UnitTypeID], 
+    [MedicineInformationView].[UnitTypeName] AS [UnitTypeName]
+    FROM [dbo].[MedicineInformationView] AS [MedicineInformationView]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="SalesInformationView" EntityType="Self.SalesInformationView" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [SalesInformationView].[SalesID] AS [SalesID], 
+    [SalesInformationView].[SalesName] AS [SalesName], 
+    [SalesInformationView].[InvoiceNo] AS [InvoiceNo], 
+    [SalesInformationView].[CustomerName] AS [CustomerName], 
+    [SalesInformationView].[CustomerID] AS [CustomerID], 
+    [SalesInformationView].[DiscountRate] AS [DiscountRate], 
+    [SalesInformationView].[DiscountAmount] AS [DiscountAmount], 
+    [SalesInformationView].[TaxPercentage] AS [TaxPercentage], 
+    [SalesInformationView].[TotalTax] AS [TotalTax], 
+    [SalesInformationView].[SubTotal] AS [SubTotal], 
+    [SalesInformationView].[TotalPriceExcludingAll] AS [TotalPriceExcludingAll], 
+    [SalesInformationView].[TotalPriceIncludingAll] AS [TotalPriceIncludingAll]
+    FROM [dbo].[SalesInformationView] AS [SalesInformationView]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_CustomerInformation_Gender" Association="Self.FK_CustomerInformation_Gender">
+      <End Role="Gender" EntitySet="Gender" />
+      <End Role="CustomerInformation" EntitySet="CustomerInformation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MedicineInformation_Unit" Association="Self.FK_MedicineInformation_Unit">
+      <End Role="UnitType" EntitySet="UnitType" />
+      <End Role="MedicineInformation" EntitySet="MedicineInformation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesInformation_CustomerInformation" Association="Self.FK_SalesInformation_CustomerInformation">
+      <End Role="CustomerInformation" EntitySet="CustomerInformation" />
+      <End Role="SalesInformation" EntitySet="SalesInformation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesInformationDetails_MedicineInformation" Association="Self.FK_SalesInformationDetails_MedicineInformation">
+      <End Role="MedicineInformation" EntitySet="MedicineInformation" />
+      <End Role="SalesInformationDetails" EntitySet="SalesInformationDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesInformationDetails_SalesInformation" Association="Self.FK_SalesInformationDetails_SalesInformation">
+      <End Role="SalesInformation" EntitySet="SalesInformation" />
+      <End Role="SalesInformationDetails" EntitySet="SalesInformationDetails" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

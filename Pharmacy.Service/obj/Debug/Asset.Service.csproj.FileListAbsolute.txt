@@ -1,0 +1,78 @@
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.pdb
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.xml
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.csprojResolveAssemblyReference.cache
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.dll
+H:\Asif's Framework\ReFramework\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.pdb
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.dll
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.pdb
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.dll
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.dll
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.dll
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.dll
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.pdb
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.pdb
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.pdb
+F:\Asif\rp\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.xml
+F:\Asif\rp\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.csprojResolveAssemblyReference.cache
+F:\Asif\rp\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.dll
+F:\Asif\rp\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.pdb
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.dll
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.pdb
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.dll
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.dll
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.dll
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.dll
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.pdb
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.pdb
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.pdb
+F:\Asif\Framework\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.xml
+F:\Asif\Framework\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.csprojResolveAssemblyReference.cache
+F:\Asif\Framework\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.dll
+F:\Asif\Framework\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.pdb
+H:\Project Coll\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.csprojResolveAssemblyReference.cache
+H:\Project Coll\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.dll
+H:\Project Coll\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.pdb
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.dll
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.pdb
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.dll
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.dll
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.dll
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.dll
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.pdb
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.pdb
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.pdb
+H:\Project Coll\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.xml
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.dll
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.pdb
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.dll
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.dll
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.dll
+E:\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.dll
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.pdb
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.pdb
+E:\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.pdb
+E:\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.xml
+E:\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.csprojResolveAssemblyReference.cache
+E:\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.dll
+E:\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.pdb
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.dll
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Service.pdb
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.dll
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.dll
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.dll
+I:\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.dll
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Infrastructure.pdb
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Model.pdb
+I:\Asset_Sln\Asset.Service\bin\Debug\Asset.Repository.pdb
+I:\Asset_Sln\Asset.Service\bin\Debug\EntityFramework.xml
+I:\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.csprojResolveAssemblyReference.cache
+I:\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.dll
+I:\Asset_Sln\Asset.Service\obj\Debug\Asset.Service.pdb

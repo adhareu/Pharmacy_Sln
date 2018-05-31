@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+
+}
+
+<div class="row match-height" ng-controller="UnitTypeControllerEdit">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title" id="basic-layout-form-center">Unit Type Update</h4>
+                <a class="heading-elements-toggle"><i class="icon-ellipsis font-medium-3"></i></a>
+                <div class="heading-elements">
+                    <ul class="list-inline mb-0">
+
+                        <li><a data-action="reload"><i class="icon-reload"></i></a></li>
+                        <li><a data-action="expand"><i class="icon-expand2"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="card-body collapse in">
+                <div class="card-block">
+
+
+                    <div class="row">
+                        <div class="col-md-6 offset-md-3">
+                            <div class="form-body">
+                                <input type="hidden" id="UnitTypeID" ng-model="UnitType.UnitTypeID" />
+                                <div class="form-group" ng-class="{ 'has-danger': dForm.Name.$touched && dForm.Name.$invalid }">
+                                    <label for="Name">Name</label>
+                                    <input type="text" id="Name" class="form-control" placeholder="Name" name="Name" ng-model="UnitType.UnitTypeName" ng-maxlength="150" ng-change="IsUnitTypeExistsWithID()" required>
+                                    <div class="help-block" ng-messages="dForm.Name.$error" ng-if="dForm.Name.$touched">
+                                        <div ng-message="required" class="danger text-muted">Enter Unit Type Name</div>
+
+                                        <div ng-message="maxlength" class="warning text-muted">Unit Type Name must not exceed 150 characters</div>
+                                        <div class="danger text-muted" ng-show="IsDuplicate">Unit Type Name Already Exists</div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-actions center">
+
+                        <button type="submit" class="btn btn-primary" ng-disabled="dForm.$invalid" ng-click="UpdateUnitType(UnitType)">
+                            <i class="icon-check2"></i> Save
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
